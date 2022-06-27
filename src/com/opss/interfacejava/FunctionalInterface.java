@@ -13,6 +13,7 @@ public class FunctionalInterface {
             public void print() {
                 System.out.println("Welcome into Functional Interface");
             }
+
         };
         obj.print();
         obj.run();

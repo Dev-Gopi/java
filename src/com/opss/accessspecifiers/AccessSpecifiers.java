@@ -16,6 +16,7 @@ class Details{
 
     protected String age;
 
+
     public String getAmount() {
         return amount;
     }

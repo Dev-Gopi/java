@@ -13,6 +13,7 @@ class Heater extends Electricity{
         super();
     }
 }
+
 public class Hierarchy {
     public static void main(String[] args) {
         Heater objhe = new Heater();

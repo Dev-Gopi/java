@@ -16,6 +16,7 @@ class Computer extends Motherboard{
         super();
     }
 }
+
 public class Multileble {
     public static void main(String[] args) {
         Computer obj = new Computer();

@@ -12,6 +12,7 @@ class MethodOver{
     public void room(int count, String size, int l, int w, String ac, String fridge){
         System.out.println(count+" "+size+" "+l+" "+w+" "+ac+" "+fridge);
     }
+
     public void room(int count, String size, int l, int w, String ac, String fridge, String washingmachine){
         System.out.println(count+" "+size+" "+l+" "+" "+w+" "+ac+" "+fridge+" "+washingmachine);
     }

@@ -10,6 +10,7 @@ class Bike extends Engine{
         super();
     }
 }
+
 public class Single {
     public static void main(String[] args) {
         Bike obj = new Bike();

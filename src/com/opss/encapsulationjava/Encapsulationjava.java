@@ -7,6 +7,7 @@ class Encap{
         return rollNumber;
     }
 
+
     public void setRollNumber(int rollNumber) {
         this.rollNumber = rollNumber;
     }

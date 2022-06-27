@@ -11,6 +11,7 @@ class Model{
         return this.currentScore;
     }
 
+
     int run(int speed, int currentScore){
         this.speed = speed;
         this.currentScore = currentScore;

@@ -7,6 +7,7 @@ interface Calculator{
 }
 class Calimp implements Calculator{
 
+
     @Override
     public void sum(int... num) {
         int num0 = 0;
