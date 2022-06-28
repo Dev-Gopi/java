@@ -5,8 +5,10 @@ public class AccessSpecifiers {
         Details obj = new Details();
         obj.roll = "1";
         obj.name = "Gopinath Bhowmick";
+//        obj.amount = "1000";
         obj.setAmount("20000");
         obj.age = "22";
+        System.out.println(obj.name+" "+obj.roll+" "+obj.getAmount()+" "+obj.age);
     }
 }
 class Details{
