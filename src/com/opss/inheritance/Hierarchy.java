@@ -4,14 +4,8 @@ class Electricity{
 }
 class Heater extends Electricity{
     String heater = "Room heater";
-    Heater(){
-        super();
-    }
 }class Mobile extends Electricity{
     String mobile = "I phone";
-    Mobile(){
-        super();
-    }
 }
 
 public class Hierarchy {
